@@ -1,9 +1,18 @@
-<h1 align="center">hi 👋, i'm terrence</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=terrencewong" alt="terrencewong" /> </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/tw604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tw604" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/6169862" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6169862" height="30" width="30" /></a>
+
+<table style="border: none;" width="100%"> 
+  <tr style="border: none;">
+  <td style="border: none;" width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-five-mu.vercel.app/api/spotify)](https://open.spotify.com/user/lightningboy_)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">
+    <img src="https://media.giphy.com/media/pcYr3gUVbxEVJQvL3M/giphy-downsized-large.gif" alt="cat-kitty" border="0" />
+  [![](https://img.shields.io/static/v1?logo=linkedin&label=&message=tw604&color=1e90ff&style=flat-square)](https://www.linkedin.com/in/tw604/)
+  [![visits](https://komarev.com/ghpvc/?username=terrencewong&label=views&color=1e90ff&style=flat-square)](https://github.com/terrencewong)
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrencewong&layout=compact&hide=html" alt="terrencewong" /></p>
+  </td>
+  </table>
